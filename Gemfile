@@ -59,3 +59,7 @@ end
 gem "device", "~> 0.0.0"
 
 gem "devise", "~> 4.9"
+
+gem "bulma-rails", "~> 1.0"
+
+gem "dartsass-rails", "~> 0.5.1"
